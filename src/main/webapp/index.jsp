@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<
+0DOCTYPE html>
 <HTML>
 <HEAD>
 <TITLE>KAARALA</TITLE>
@@ -12,10 +13,10 @@
 
 <BODY background="kolli-hills.jpg">
         <%!
-         private static int counter = 0;
+        T -
          %>
         <%
-          String visitor = ++counter + " :: We are growing , Thank you for your LOVE and SUPPORT...";
+          String visitor = ++counter + " :: We are growing , Thank you for your  SUPPORT...";
         %>
 
 	<SCRIPT>

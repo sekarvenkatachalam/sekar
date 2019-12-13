@@ -40,7 +40,7 @@
                 <BR>
                         <FONT COLOR="WHITE" SIZE="7">WELCOME TO sekar FARMS
                         <br>
-			<FONT COLOR="WHITE" SIZE="5">|- from the blended nature of Kalvarayan and Kolli Hills -|
+			<FONT COLOR="WHITE" SIZE="5">|- from the blended nature of Kalvarayan and Kolli Hills NAMMAKKAL -|
 			<br><br>
 			<FONT COLOR="WHITE" SIZE="6">search your item below
 		        <br><br>
